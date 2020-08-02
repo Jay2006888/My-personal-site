@@ -10,7 +10,20 @@ hr {
 }
 h1 {
   color: #f08a5d;
+  font-family: 'Dancing Script', cursive;
+
 }
 h3 {
   color: #F6416C;
+  font-family: 'EB Garamond', serif;
+}
+td{
+  font-family: 'Patrick Hand', cursive;
+}
+.unique{
+  font-family: 'IBM Plex Serif', serif;
+}
+
+li{
+  font-family: 'Patrick Hand', cursive;
 }
